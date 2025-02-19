@@ -1175,6 +1175,14 @@
     "format": "png"
   }]
 }, {
+  "name": "prim",
+  "icons": [{
+    "url": "ipfs://bafkreidaurpqgf3mmudm2foh5a45xyughike2y2pltb323ad5ywo4gtc3q",
+    "width": 256,
+    "height": 256,
+    "format": "svg"
+  }]
+}, {
   "name": "zkfair",
   "icons": [{
     "url": "ipfs://QmVb682D4mUXkKNP28xxJDNgSYbDLvEc3kVYx7TQxEa6Cw",
@@ -1972,6 +1980,14 @@
     "url": "ipfs://QmNS6B6L8FfgGSMTEi2SxD3bK5cdmKPNtQKcYaJeRWrkHs",
     "width": 732,
     "height": 732,
+    "format": "png"
+  }]
+}, {
+  "name": "action",
+  "icons": [{
+    "url": "ipfs://QmNkyJNwgHEWYnxq8BPaQ83WxrVVPrdzvQKKY22PRqhRts",
+    "width": 960,
+    "height": 960,
     "format": "png"
   }]
 }, {
